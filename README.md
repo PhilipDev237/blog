@@ -15,6 +15,7 @@ USAGE:
 - Extract the folder locally
 - Run your MongoDB Database
 - Open the command prompt and navigate to your extracted folder
+- Run npm init to download the node_modules
 - Run npm install to download the required dependencies
 - Copy your MongoDB url
 - Go to the app.js file and change the url to your database url
